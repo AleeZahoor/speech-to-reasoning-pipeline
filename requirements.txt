@@ -1,0 +1,6 @@
+whisper
+torch
+transformers
+bitsandbytes
+accelerate
+streamlit
